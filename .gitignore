@@ -1,0 +1,9 @@
+# Executable files without extensions
+Task1
+Task2
+Task3
+
+# Debug symbols & VS Code settings
+*.dSYM/
+.vscode/
+.DS_Store
